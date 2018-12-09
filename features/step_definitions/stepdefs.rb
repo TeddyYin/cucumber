@@ -13,14 +13,15 @@ World FridayStepHelper
 #  @today = 'Friday'
 #end
 
-Given("today is {string}") do |given_day|
-  @today = given_day
-end
-
 #Given("today is Sunday") do
 #  @today = 'Sunday'
 #  # pending # Write code here that turns the phrase above into concrete actions
 #end
+
+Given("today is {string}") do |given_day|
+  @today = given_day
+end
+
 
 When("I ask whether it's Friday yet") do
   @actual_answer = is_it_friday(@today)
