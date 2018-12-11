@@ -11,4 +11,3 @@ Feature: 今天是星期五嗎？ Is it Friday yet?
     | Friday | TGIF |
     | Sunday | 呵呵不是唷！！！ |
     | anything else! | 呵呵不是唷！！！ |
-    | error  | 錯誤訊息測試 |
