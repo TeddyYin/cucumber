@@ -10,7 +10,7 @@ end
 World FridayStepHelper
 
 #Given("today is Friday") do
-#  @today = 'Friday'
+#  @today = 'Fridayaaa'
 #end
 
 #Given("today is Sunday") do
