@@ -8,6 +8,6 @@ Feature: 今天是星期五嗎？ Is it Friday yet?
 
   Examples:
     | day | answer |
-    | Friday | TGIF |
+    | Friday | Yes!!! |
     | Sunday | 呵呵不是唷！！！ |
     | anything else! | 呵呵不是唷！！！ |
